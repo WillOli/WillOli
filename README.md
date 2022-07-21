@@ -1,5 +1,5 @@
 
-### Olá eu sou William Oliveira ✋
+### Olá eu sou William Oliveira 👨🏿‍🎓
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://williamoliveira89.vercel.app/)
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/williamoliveir7)
