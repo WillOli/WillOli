@@ -1,5 +1,5 @@
 
-### Olá eu sou William 👨🏿‍🎓
+### Olá eu sou William 🧑🏾‍🦱
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://williamoliveira89.vercel.app/)
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/williamoliveir7)
