@@ -1,5 +1,6 @@
 
-### 🧑🏾‍🦱 ⇨ 👩🏾‍💻
+
+👩🏾‍💻
 
 ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=WillOli&show_icons=true&theme=dracula)
 
