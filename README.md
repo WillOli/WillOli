@@ -5,13 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6495ED&width=435&lines=Java)](https://git.io/typing-svg)
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillOli&bg_color=093781&color=ae8a0a&line=b08d0c&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=WillOli&theme=highcontrast&border_radius=1&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=4169E1)](https://git.io/streak-stats)
-
-
 <div align="center">
   <h2>Main Skills</h2>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
